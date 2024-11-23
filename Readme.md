@@ -4,8 +4,9 @@
 
 [vercel.app](https://hackloopwinner.vercel.app/)
 
+![flowchart](https://github.com/user-attachments/assets/4fc290ed-7639-412a-b9c3-214ac18c9240)
 
-![EVENT HUB](https://github.com/user-attachments/assets/118d276f-8f62-4a46-8066-051961b8ea76)
+![tech-stack](https://github.com/user-attachments/assets/6af7ae60-1118-4878-a39c-f6447b5a71ee)
 
 
 
