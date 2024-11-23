@@ -142,7 +142,7 @@
 <body>
   <%- include('_navbar') %>
 
-  <div class="dashboard-content">
+  <div class="dashboard-content" style="padding-bottom: 0;">
     <center>
       <h1>Welcome, <%= user.name %>!</h1>
     </center>
@@ -355,6 +355,22 @@ sendPromptButton.addEventListener("click", async () => {
   </script>
 
 
+
+    <div class="footer" style="
+
+    width: 100%;
+            text-align: center;
+            background-color: transparent;
+            padding: 10px 0;
+            font-size: 14px;
+            font-family: Arial, sans-serif;
+            color: white;
+            position: sticky;
+            top: 90vh; /* Footer becomes visible after scrolling past 100% of viewport height */" >
+      Made with ♡ by Chaiwalas
+  </div>
+
+       
 </body>
 
 </html>
