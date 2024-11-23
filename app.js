@@ -24,6 +24,11 @@ const app = express();
 // Trust proxy
 app.set('trust proxy', true);
 
+
+app.set('views', path.join(__dirname, 'views'));
+
+
+
 // MongoDB Connection
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/your_db_name')
   .then(() => console.log('MongoDB connected'))
