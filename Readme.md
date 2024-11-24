@@ -28,6 +28,7 @@ both server admin and club admin page
 
 
 
+
 feedback and pritn attendnce
 and email announcements and chatbot
 browser notification one day before event if registered
