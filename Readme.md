@@ -21,6 +21,8 @@ add .env file
 npm install
 npm start
 
+localhost:5000
+
 # To be added
 
 both server admin and club admin page
