@@ -1,5 +1,5 @@
 # Event-Hub
-
+hackathon project
 [onrender.com](https://nmamitevents.onrender.com/)
 
 [vercel.app](https://hackloopwinner.vercel.app/)
